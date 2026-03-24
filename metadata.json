@@ -1,0 +1,5 @@
+{
+  "name": "Intent & Action Parser",
+  "description": "Transforms messy, unstructured user messages into clear, actionable business insights using AI.",
+  "requestFramePermissions": []
+}
